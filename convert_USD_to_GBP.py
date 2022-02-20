@@ -59,4 +59,4 @@ def cleanup_input(input_amount):
 
 if __name__ == '__main__':
 
-    print (convert_to_GBP(input_val)) #Change the input amount here.
+    print (convert_to_GBP(input_val))
